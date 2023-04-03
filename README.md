@@ -1,4 +1,5 @@
 # Docker WordpressCity
+https://github.com/islamicity24/wp-cli/edit/main/README.md
 
 hub.docker.com
 wordpress
@@ -6,7 +7,9 @@ wordpress
 docker pull wordpress
 
 `Try in PWD`
+
 https://labs.play-with-docker.com/
+
 https://labs.play-with-docker.com/sessions/cgl17j2e69v000a5fnj0/instances/cgl17j2e_cgl17jae69v000a5fnjg/editor
 
 
@@ -26,6 +29,7 @@ mv wp-cli.phar /usr/local/bin/wp
 ```
 wp cli --info
 ```
+```
 $ wp --info
 OS:     Linux 5.10.60.1-microsoft-standard-WSL2 #1 SMP Wed Aug 25 23:20:18 UTC 2021 x86_64
 Shell:  /usr/bin/zsh
@@ -42,3 +46,4 @@ WP-CLI packages dir:    /home/wp-cli/.wp-cli/packages/
 WP-CLI global config:
 WP-CLI project config:  /home/wp-cli/wp-cli.yml
 WP-CLI version: 2.7.1
+```
